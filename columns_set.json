@@ -1,0 +1,18 @@
+{
+	"data_columns": {
+		"applicantincome": null,
+		"coapplicantincome": null,
+		"loanamount": null,
+		"loan_amount_term": null,
+		"gender_Male": null,
+		"married _Yes": null,
+		"dependents_1": null,
+		"dependents_2": null,
+		"dependents_3+": null,
+		"education_Not Graduate": null,
+		"self_employed_Yes": null,
+		"credit_history_1.0": null,
+		"property_area_Semiurban": null,
+		"property_area_Urban": null
+	}
+}
